@@ -1,15 +1,25 @@
-# <p align="center">Foro Alura</p>
+# <p align="center">API Foro Alura</p>
+<p align="center" ><strong>Crear Usuario</strong></p>
+
+![creacionUsuario](https://github.com/panchoalenda/foro_alura/assets/89745418/cd9213f7-fce9-4d2d-a110-fb4f0c579a23)
+<p align="center" ><strong>Listar Usuarios</strong></p>
+
+![ListarUsuarios](https://github.com/panchoalenda/foro_alura/assets/89745418/a3d99082-f154-4ab4-a1df-540fce734556)
+<p align="center" ><strong>Modificar Usuarios</strong></p>
+
+![ModificarUsuario](https://github.com/panchoalenda/foro_alura/assets/89745418/27f81fa4-ac08-410a-abcd-643d6fa37461)
+<p align="center" ><strong>Buscar Usuarios por ID</strong></p>
+
+![ListarUsuariosPorId](https://github.com/panchoalenda/foro_alura/assets/89745418/b39ec7a9-4d0d-4ab2-8eab-6ffce7a0e6be)
+<p align="center" ><strong>Listar Tópicos Usuarios</strong></p>
+
+![ListarTopico](https://github.com/panchoalenda/foro_alura/assets/89745418/b7962a0e-a783-48e6-a259-e2857d6b626c)
+<p align="center" ><strong>Listar Respuestas</strong></p>
+
+![ListarRespuesta](https://github.com/panchoalenda/foro_alura/assets/89745418/6d31b7ae-1d48-42e6-afc8-b50cf27713df)
 
 
-<p align="center" >
-     <img width="600" heigth="600" src="imagenes/demo.gif">
-</p>
-
-
-
-
-
-###<p style="text-align: justify">ForoAPI es una API de foro que permite a los usuarios crear tópicos de discusión, registrar usuarios para participar en esos tópicos y responder a cualquier tópico. La API proporciona todas las operaciones CRUD (Crear, Leer, Actualizar, Eliminar) para administrar tópicos, usuarios y respuestas en el foro. </br>Funcionalidades básicas:</p>
+###<p style="text-align: justify">Foro Alura es una API de foro que permite a los usuarios crear tópicos de discusión, registrar usuarios para participar en esos tópicos y responder a cualquier tópico. La API proporciona todas las operaciones CRUD (Crear, Leer, Actualizar, Eliminar) para administrar tópicos, usuarios y respuestas en el foro. </br>Funcionalidades básicas:</p>
 
 .# **Crear un Tópico:**
 Los usuarios pueden crear nuevos tópicos de discusión.
